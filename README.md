@@ -1,2 +1,2 @@
-# admin-v2-fe
-第二版admin-fe
+# MMall Ecommerce background management system
+Template URL: adminv2.happymmall.com
